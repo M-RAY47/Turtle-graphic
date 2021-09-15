@@ -2,4 +2,4 @@
 
 You can see the project as gif down here
 
-<img src="./turtle_race.gif" Alt="turtle race gif">>
+<img src="./turtle_race.gif" Alt="turtle race gif">
